@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.0
+requests-async==0.6.2
+requests==2.25.1
+lxml==4.6.3
+html5lib==1.1
+black==21.4b2
+flake8==3.9.1
